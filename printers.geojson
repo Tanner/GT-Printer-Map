@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.77746,-84.397257]
+      },
+      "properties": {
+        "Location": "College of Computing - States Lab",
+        "Printer Options": "Black and White"
+      }
+    }
+  ]
+}
