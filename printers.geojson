@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [33.77746,-84.397257]
+        "coordinates": [-84.397257, 33.77746]
       },
       "properties": {
         "Location": "College of Computing - States Lab",
