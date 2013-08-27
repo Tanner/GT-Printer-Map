@@ -11,6 +11,17 @@
         "Location": "College of Computing - States Lab",
         "Printer Options": "Black and White"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.39826, 33.773823]
+      },
+      "properties": {
+        "Location": "Student Center - Copy / Fax Area",
+        "Printer Options": "Black and White, Color"
+      }
     }
   ]
 }
