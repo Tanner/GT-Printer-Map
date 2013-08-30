@@ -11,6 +11,61 @@
         "Location": "College of Computing - States Lab",
         "Printer Options": "Black and White"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396377, 33.774603]
+      },
+      "properties": {
+        "Location": "CULC - 4th Floor",
+        "Printer Options": "Black and White"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396383, 33.774758]
+      },
+      "properties": {
+        "Location": "CULC - 3rd Floor",
+        "Printer Options": "Black and White"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.396332, 33.77489]
+      },
+      "properties": {
+        "Location": "CULC - 2nd Floor",
+        "Printer Options": "Black and White"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.395929, 33.77449]
+      },
+      "properties": {
+        "Location": "Library - 1st Floor East",
+        "Printer Options": "Black and White"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.39521, 33.774423]
+      },
+      "properties": {
+        "Location": "Library - 2nd Floor West",
+        "Printer Options": "Black and White"
+      }
     }
   ]
 }
